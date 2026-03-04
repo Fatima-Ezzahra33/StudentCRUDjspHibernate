@@ -3,13 +3,9 @@
     <deployment>
         <exclude-subsystems>
             <subsystem name="jpa"/>
-            <subsystem name="bean-validation"/>
         </exclude-subsystems>
-        <exclusions>
+        <dependencies>
             <module name="jakarta.persistence.api"/>
-            <module name="org.hibernate"/>
-            <module name="org.hibernate.validator"/>
-        </exclusions>
-        <local-last value="false"/>
+        </dependencies>
     </deployment>
 </jboss-deployment-structure>
