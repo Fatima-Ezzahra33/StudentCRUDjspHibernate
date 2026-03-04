@@ -7,7 +7,7 @@ Application web Java EE de gestion des étudiants (CRUD) développée avec **Hib
 ## 🛠️ Technologies utilisées
 
 - **Java 21**
-- **Hibernate ORM ** (fourni par WildFly)
+- **Hibernate ORM** (fourni par WildFly)
 - **Jakarta Persistence (JPA)**
 - **Jakarta Servlet**
 - **JSP** (JavaServer Pages)
