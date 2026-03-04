@@ -61,7 +61,7 @@ StudentCrudHibernate/
 
 ```sql
 CREATE DATABASE studentdb CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
-``
+```
 
 ## 🚀 Lancement de l'application
 
